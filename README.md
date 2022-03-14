@@ -19,3 +19,5 @@ https://www.ceicdata.com/id/indicator/korea/visitor-arrivals
 
 ## App Reference
 - https://apkpure.com/id/halal-korea-muslim-quran-qibla/me.halalfind.app.halalkorea
+
+https://docs.google.com/spreadsheets/d/1eqs8NI2QgrGcnI8uibRbKVUU1vnWgrFvODdDpyPlOnY/edit#gid=0
